@@ -47,12 +47,9 @@ const About = () => {
 				variants={fadeIn("", "", 0.1, 1)}
 				className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
 			>
-				{`Graduated in Computer Science from Veiga de Almeida University in Brazil
-				 and a diploma in Web Development from Cornerstone College in
-				 Vancouver. I have over 7 years of proven experience as a software
-				 developer in electrical, financial industries, construction, law and marketing`}
-				 <br />
-				
+				{`I hold a degree in Computer Science from Veiga de Almeida University in Brazil. I also have a diploma in Web Development from Cornerstone College in Vancouver. With over 7 years of experience, I have excelled as a software developer. My work spans various industries, including electrical, finance, construction, law, and marketing startups. I thrive in dynamic environments and enjoy solving complex problems. I am passionate about creating innovative solutions that drive success.`}
+				<br />
+
 				{`I'm a skilled software developer with experience in TypeScript and
 				JavaScript, and expertise in frameworks like React, Node.js, and
 				Three.js. I'm a quick learner and collaborate closely with clients to
